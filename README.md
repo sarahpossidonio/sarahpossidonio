@@ -22,6 +22,4 @@
   <a href = "mailto:sarahpossidonio@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-possid%C3%B4nio-4b992a151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/sarahpossidonio/sarahpossidonio/blob/main/.github/workflows/snake.yml)
- 
 </div>
