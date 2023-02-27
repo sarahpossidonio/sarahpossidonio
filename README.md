@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Sarah Possidônio, sou estudante de Ciência da Computação na Unisul. 👋
 
-- 🌱 Estudando Modelagem de Banco de Dados e Programação - Java
+- 🌱 Estudando Ambientes Computacionais e Conectividade - Sistemas Computacionais e Segurança
+- ✅️ Modelagem de Banco de Dados e Programação - Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
