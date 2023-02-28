@@ -13,7 +13,7 @@
   <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Sarah-pic" height="150" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/701319447431872543/1032805159841058857/powerp_sarah.png">
+  <img align="right" alt="Sarah-pic" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/701319447431872543/1080184966576611449/1.png?width=468&height=468">
 </div>
   
   ##
