@@ -3,7 +3,6 @@
 - 🌱 Cursos para crescimento: Formação Unity 3D - Game Developer (DIO.me) - Linguagem: C#
 - 🎓 Matérias Atuais (Faculdade): Férias
 - ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/sarahpossidonio">
