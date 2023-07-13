@@ -15,6 +15,7 @@
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sarah-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sarah-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="right" alt="Sarah-pic" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/701319447431872543/1080184966576611449/1.png?width=468&height=468">
 </div>
   
