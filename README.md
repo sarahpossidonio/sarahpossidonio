@@ -26,3 +26,5 @@
   <a href="https://www.linkedin.com/in/sarah-possid%C3%B4nio-4b992a151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
+
+![snake gif](https://github.com/sarahpossidonio/sarahpossidonio/blob/output/github-contribution-grid-snake.svg)
