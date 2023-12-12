@@ -2,7 +2,7 @@
 
 - 🌱 Cursos para crescimento: Formação Unity 3D - Game Developer (DIO.me) - Linguagem: C#
 - 🎓 Matérias Atuais (Faculdade): Estrutura de dados e análise de algoritmos | Teoria da computação e compiladores
-- ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança
+- ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança | Teoria da Computação e Compiladores | Estruturas de Dados e Análise de Algoritmos
 
 <div align="center">
   <a href="https://github.com/sarahpossidonio">
