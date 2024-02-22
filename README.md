@@ -15,7 +15,7 @@
   <img align="center" alt="Sarah-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sarah-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Sarah-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="right" alt="Sarah-pic" height="150" style="border-radius:80px;" src="https://media.discordapp.net/attachments/701319447431872543/1080184966576611449/1.png?width=468&height=468">
+  <img align="right" alt="Sarah-pic" height="150" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/701319447431872543/1210277322737844326/da65fbdd-6ad7-44a4-b6dd-41ace060af3e.jpg?ex=65e9f997&is=65d78497&hm=79d06d5d839be8ec79b3115dee72d595245ec6c37c2e38438cae2f36f888e9fa& width=468&height=468">
   
 </div>
   
