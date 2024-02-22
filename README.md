@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Sarah Possidônio, sou estudante de Ciência da Computação na Unisul. 👋
 
-- 🌱 Cursos para crescimento: Formação Unity 3D - Game Developer (DIO.me) - Linguagem: C#
-- 🎓 Matérias Atuais (Faculdade): Estrutura de dados e análise de algoritmos | Teoria da computação e compiladores
+- 🎓 Matérias Atuais (Faculdade): Análise de Dados e Big Data | Core Curriculum: Português e Libras
 - ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança | Teoria da Computação e Compiladores | Estruturas de Dados e Análise de Algoritmos
 
 <div align="center">
