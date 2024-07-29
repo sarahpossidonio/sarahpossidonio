@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sarah Possidônio, sou estudante de Ciência da Computação na Unisul. 👋
 
-- 🎓 Matérias Atuais (Faculdade): Análise de Dados e Big Data | Core Curriculum: Português e Libras
-- ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança | Teoria da Computação e Compiladores | Estruturas de Dados e Análise de Algoritmos
+- 🎓 Matérias Atuais (Faculdade): Computação Gráfica e Realidade Virtual | Estruturas Matemáticas
+- ✅️ Matérias Concluídas (Faculdade): Modelagem de Banco de Dados | Programação - Java | Ambientes Computacionais e Conectividade | Sistemas Computacionais e Segurança | Teoria da Computação e Compiladores | Estruturas de Dados e Análise de Algoritmos | Análise de Dados e Big Data | Core Curriculum: Português e Libras
 
 <div align="center">
   <a href="https://github.com/sarahpossidonio">
